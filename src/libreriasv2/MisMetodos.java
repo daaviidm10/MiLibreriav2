@@ -1,3 +1,5 @@
+package libreriasv2;
+
 /**
  * Contiene métodos útiles para usar en los proyectos
  */
